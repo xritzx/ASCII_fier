@@ -2,7 +2,7 @@ RES = 128
 import numpy as np
 import easygui
 import cv2 as cv
-import matplotlib.pyplot as plt
+
 def ax(res):
     scale = RES/res
     return round(scale,3)
