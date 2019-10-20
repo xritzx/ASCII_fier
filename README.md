@@ -2,6 +2,7 @@
 
 An image is converted into its B&W version and then it is represented by a bunch of ASCII characters.
 eg. White can be represented by '.' or ' ' and Black can be represented by '@' or '$'
+Depending on the brightness
 
 ```
 git clone https://github.com/xritzx/ASCII_fier.git
