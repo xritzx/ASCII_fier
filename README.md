@@ -11,3 +11,4 @@ python ASCII-fier.py
 ```
 Choose your image file and it will generate an .html file for the ascii pic.
 ### Make sure you have easygui, numpy, opencv installed
+If you want to add any feature feel free to fork
